@@ -1,0 +1,12 @@
+D:\Projeler\Microsoft Visual Studio\batterystatus\batterystatus\bin\Debug\batterystatus.exe.config
+D:\Projeler\Microsoft Visual Studio\batterystatus\batterystatus\bin\Debug\batterystatus.exe
+D:\Projeler\Microsoft Visual Studio\batterystatus\batterystatus\bin\Debug\batterystatus.pdb
+D:\Projeler\Microsoft Visual Studio\batterystatus\batterystatus\bin\Debug\FlatUI.dll
+D:\Projeler\Microsoft Visual Studio\batterystatus\batterystatus\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Projeler\Microsoft Visual Studio\batterystatus\batterystatus\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Projeler\Microsoft Visual Studio\batterystatus\batterystatus\obj\Debug\batterystatus.csprojResolveAssemblyReference.cache
+D:\Projeler\Microsoft Visual Studio\batterystatus\batterystatus\obj\Debug\batterystatus.Form1.resources
+D:\Projeler\Microsoft Visual Studio\batterystatus\batterystatus\obj\Debug\batterystatus.Properties.Resources.resources
+D:\Projeler\Microsoft Visual Studio\batterystatus\batterystatus\obj\Debug\batterystatus.csproj.GenerateResource.Cache
+D:\Projeler\Microsoft Visual Studio\batterystatus\batterystatus\obj\Debug\batterystatus.exe
+D:\Projeler\Microsoft Visual Studio\batterystatus\batterystatus\obj\Debug\batterystatus.pdb
