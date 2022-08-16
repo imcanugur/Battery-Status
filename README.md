@@ -1,5 +1,5 @@
 # Battery-Status
-www.ugurcan.rf.gd
+ 
 İlk geliştirmiş olduğum programlardan biri lise projesi olarak tasarlandı.
 Hakkında kısmı güncel değil kusura bakmayın.
 Eksikleri ve hayatları bildirebilirsiniz.
