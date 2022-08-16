@@ -1,4 +1,4 @@
-# Battery Durumu
+# Batarya Durumu
  
 İlk geliştirmiş olduğum programlardan biri lise projesi olarak tasarlandı.
 Hakkında kısmı güncel değil kusura bakmayın.
